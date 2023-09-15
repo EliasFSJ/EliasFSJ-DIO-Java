@@ -1,4 +1,4 @@
-## Vamos Comecçar
+## Vamos Começar
 
 Bem vindo ao meu projeto de Conta de Banco.
 
