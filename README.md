@@ -1,2 +1,10 @@
-# EliasFSJ-DIO-Java
-Repositório para armazenar meu código java, simulando mensagem de Banco
+## Vamos Comecçar
+
+Bem vindo ao meu projeo de Conta de Banco.
+
+    Aqui vamos fazer uma simulação de uma mensagem de banco usando o terminal, com dados informados pelo usuário e mensagens sendo exibidas logo após o processo do código ser efetuado.
+
+        Obrigado pela atenção.
+
+
+
